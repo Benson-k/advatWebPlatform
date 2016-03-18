@@ -1,17 +1,12 @@
-abo
+Advat
 ==============================
 
-A short description of the project.
+Web platform for advat project course at Åbo Akademi 2016
 
 
 LICENSE: BSD
 
-Settings
-------------
 
-Moved to settings_.
-
-.. _settings: http://cookiecutter-django.readthedocs.org/en/latest/settings.html
 
 Basic Commands
 --------------
