@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?gd2jjz');
+    src:    url('fonts/icomoon.eot?gd2jjz#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?gd2jjz') format('truetype'),
+        url('fonts/icomoon.woff?gd2jjz') format('woff'),
+        url('fonts/icomoon.svg?gd2jjz#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-document-information:before {
+    content: "\e904";
+}
+.icon-paper-plane-o:before {
+    content: "\e908";
+}
+.icon-envelope-o:before {
+    content: "\e909";
+}
+.icon-diamond2:before {
+    content: "\e905";
+}
+.icon-heart-o:before {
+    content: "\e906";
+}
+.icon-share-alt:before {
+    content: "\e907";
+}
+.icon-diamond:before {
+    content: "\e900";
+}
+.icon-alarm:before {
+    content: "\e901";
+}
+.icon-bell:before {
+    content: "\e902";
+}
+.icon-equalizer2:before {
+    content: "\e903";
+}
+
